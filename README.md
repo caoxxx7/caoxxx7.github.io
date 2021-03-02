@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/caoxxx7/caoxxx7.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+翻越防火长城，你可以到达世界上的每一个角落。
+Across the Great Firewall, you can reach every corner in the world.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
